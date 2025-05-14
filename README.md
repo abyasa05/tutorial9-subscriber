@@ -1,0 +1,2 @@
+a. AMQP (Advanced Message Queuing Protocol) merupakan sejenis protokol yang digunakan sebagai platform komunikasi antar sistem aplikasi melalui sistem _message queuing_. Protokol ini biasanya digunakan bersama dengan platform _message broker_ seperti RabbitMQ, di mana AMQP berperan sebagai media pengiriman _message_ oleh RabbitMQ.
+b. `guest` pertama merujuk pada _username_, sementara `guest` kedua merujuk pada _password_. Lalu, `localhost:5672` menunjukkan penggunaan server lokal dengan port 5672 yang merupakan port _default_ untuk AMQP.
